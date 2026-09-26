@@ -1,0 +1,7 @@
+numpy>=2.0
+pandas>=2.0
+scikit-learn>=1.4
+scipy>=1.11
+matplotlib>=3.8
+pymupdf>=1.24        # figure QA audits only
+torch>=2.2           # 1-D CNN only (E3); Apple MPS or CPU
